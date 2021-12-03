@@ -1,12 +1,12 @@
 # Brick breaker game
-A project for IT214 course, presented to Dr. Meshaiel Alsheail, the software development process of a Daily Routine Program
+A project for IT214 course, presented to Dr. Meshaiel Alsheail, the software development process Brick Breaker Game
 ## Project idea
-Brick Breaker game consists of bricks aligned at the top of the screen. The player is represented as a tiny ball that is placed on a small platform at the bottom of the screen. The platform can be moved around from left to right on the screen with the help of arrow keys on the keyboard. The player uses the platform to keep the ball running
+Brick Breaker is a game which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle, The paddle may move horizontally and is controlled with the help of arrow keys on the keyboard or touchpad. The player gets 3 lives to start with, a life is lost if the ball hits the bottom of the screen, If all lives are lost, the game is over. If all the bricks have been destroyed a congratulation message will appear on the screen. 
 ## The rules of the game are as follows
-* There are 32 bricks in this game and the player should break them all to win.
-* The player have 3 lives ,so he can play again until he used all the lives in the game.
-* If the player brick all the break he win the game.
-* If the player doesn’t break all the bricks he lost
+* The player gets 3 lives.
+* The player must breaks all the 32 brick to win.
+* If the player lost all the lives , the game is over.
+* If the player doesn’t break all the bricks he lost the game.
 ## Output Samples
 * OutPut1:
 
